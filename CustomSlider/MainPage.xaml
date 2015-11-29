@@ -348,8 +348,13 @@
     <Grid x:Name="LayoutRoot" Background="Transparent">
                    
         <Grid VerticalAlignment="Center">
-        <StackPanel Orientation="Vertical">
-            <Slider Style="{StaticResource CustomEllipseSliderStyle}"
+            <StackPanel Orientation="Vertical">
+                <Slider Style="{StaticResource CustomRectangleSliderStyle}"
+                        Background="White"
+                        Minimum="0"
+                        Maximum="100"
+                        Value="10" />
+                <Slider Style="{StaticResource CustomEllipseSliderStyle}"
                     Background="White"
                     Minimum="0"
                     Maximum="100"
@@ -368,11 +373,7 @@
                     Maximum="100"
                     Value="50" />
 
-                <Slider Style="{StaticResource CustomRectangleSliderStyle}"
-                        Background="White"
-                        Minimum="0"
-                        Maximum="100"
-                        Value="50" />
+               
             </StackPanel>
         </Grid>
     </Grid>

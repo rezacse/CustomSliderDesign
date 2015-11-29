@@ -1,12 +1,12 @@
-﻿<xapCache source="D:\Sample Project\git\CustomSlider\CustomSlider\Bin\Debug\CustomSlider_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="29-11-2015 1.14.46 PM">
-  <file source="D:\Sample Project\git\CustomSlider\CustomSlider\obj\Debug\CustomSlider.dll" archivePath="CustomSlider.dll" lastWriteTime="29-11-2015 1.14.45 PM" />
+﻿<xapCache source="D:\Sample Project\git\CustomSlider\CustomSlider\Bin\Debug\CustomSlider_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="29-11-2015 1.30.32 PM">
+  <file source="D:\Sample Project\git\CustomSlider\CustomSlider\obj\Debug\CustomSlider.dll" archivePath="CustomSlider.dll" lastWriteTime="29-11-2015 1.30.31 PM" />
   <file source="D:\Sample Project\git\CustomSlider\CustomSlider\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="29-11-2015 12.36.51 PM" />
   <file source="D:\Sample Project\git\CustomSlider\CustomSlider\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="29-11-2015 12.36.51 PM" />
   <file source="D:\Sample Project\git\CustomSlider\CustomSlider\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="29-11-2015 12.36.51 PM" />
   <file source="D:\Sample Project\git\CustomSlider\CustomSlider\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="29-11-2015 12.36.51 PM" />
   <file source="D:\Sample Project\git\CustomSlider\CustomSlider\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="29-11-2015 12.36.51 PM" />
-  <file source="D:\Sample Project\git\CustomSlider\CustomSlider\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="29-11-2015 12.36.54 PM" />
+  <file source="D:\Sample Project\git\CustomSlider\CustomSlider\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="29-11-2015 1.29.56 PM" />
   <file source="D:\Sample Project\git\CustomSlider\CustomSlider\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="29-11-2015 12.36.51 PM" />
   <file source="D:\Sample Project\git\CustomSlider\CustomSlider\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="29-11-2015 12.36.51 PM" />
-  <file source="D:\Sample Project\git\CustomSlider\CustomSlider\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="29-11-2015 12.36.55 PM" />
+  <file source="D:\Sample Project\git\CustomSlider\CustomSlider\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="29-11-2015 1.29.56 PM" />
 </xapCache>
