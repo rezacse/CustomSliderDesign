@@ -78,6 +78,7 @@
                                         <RectangleGeometry Rect="0, 0, 6, 12" />
                                     </Rectangle.Clip>
                                 </Rectangle>
+                                <!--here the change for ellipse--> 
                                 <Ellipse x:Name="HorizontalCenterElement"
                                          HorizontalAlignment="Left"
                                          Margin="0 0 0 30"
@@ -186,6 +187,7 @@
                                         <RectangleGeometry Rect="0, 0, 6, 12" />
                                     </Rectangle.Clip>
                                 </Rectangle>
+                                <!--collapsed the rectangle--> 
                                 <Rectangle Visibility="Collapsed"
                                            x:Name="HorizontalCenterElement"
                                            Fill="{StaticResource PhoneForegroundBrush}"
@@ -232,7 +234,7 @@
         </Style>
     </phone:PhoneApplicationPage.Resources>
 
-    <!--LayoutRoot is the root grid where all page content is placed-->
+    
     <Grid x:Name="LayoutRoot" Background="Transparent">
                    
         <Grid VerticalAlignment="Center">
